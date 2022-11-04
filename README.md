@@ -24,3 +24,6 @@ Passo 5
 Passo 6
 
 -> Behave
+
+![image](https://user-images.githubusercontent.com/85379351/200074577-f2e4618b-b564-455e-a670-b196652623f9.png)
+
